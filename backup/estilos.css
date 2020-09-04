@@ -1,0 +1,270 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header a {
+    font-size: 14px;
+}
+
+nav ul {
+    justify-content: space-between;
+}
+
+#btn-CV {
+    background-color: #e20000;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+
+main {
+    height: 77.9vh;
+}
+
+#inicio main .container {
+    position: relative;
+    top: 78%;
+}
+
+#inicio main p {
+    font-size: 24px;
+    font-weight: 300;
+    color: white;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: thin;
+    width: max-content;
+    display: inline;
+    padding: 6px 20px;
+}
+
+#inicio main a {
+    text-decoration: underline;
+    font-weight: bold;
+    color: white;
+}
+
+#inicio #btn-trabajos {
+    border-radius: 60px;
+    padding: 10px 20px;
+    font-weight: 800;
+    border-style: none;
+    box-shadow: 2px 3px 10px rgb(0,0,0,0.3);
+    font-size: 14px;
+    background-color: white;
+    color: #370a6d;
+    text-decoration: none;
+}
+
+h1 {
+    color: #E20000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+p {
+    color: #6A6A6A; 
+    font-size: 15px;   
+}
+
+footer a {
+    color: white;
+}
+
+footer {
+    color: white;
+}
+
+#proyectos footer {
+    color: red;
+}
+
+#proyectos footer a {
+    color: red;
+}
+
+footer .subrayar{
+    text-decoration: underline;
+}
+
+footer div {
+    font-size: 12px;
+}
+
+footer .col-6 .mt-3 .text-right {
+    background-color: red;
+}
+
+#icono-whatsapp {
+    background-color: #370a6d;
+    padding-bottom: 37px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px 15px 0px 0px;
+    padding-top: 14px;
+    color: white;
+}
+
+#inicio {
+    background-image: url(../images/fondo-inicio.png);
+}
+
+#contacto {
+    background-image: url(../images/fondo-contacto.png);
+}
+
+#proyectos {
+    background-image: url(../images/fondo-proyectos.png);
+}
+
+#sobre-mi {
+    background-image: url(../images/fondo-proyectos.png);
+}
+
+.nav-link {
+    color: black;
+    font-weight: normal;
+}
+
+.nav-item .active {
+    border: 1px solid red;
+    border-radius: 20px;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}    
+
+#contacto input, #contacto textarea {
+    border-radius: 10px;
+    box-shadow: 2px 3px 10px rgb(0,0,0,0.3);
+    font-size: 12px;
+    height: 39px;
+    color: rgb(0,0,0,0.5);
+    border: none;
+} 
+
+#contacto textarea {
+    height: 172px;
+}    
+
+/*#contacto #recaptcha {
+    border-radius: 10px;
+    box-shadow: 2px 3px 10px rgb(0,0,0,0.3);
+    font-size: 12px;
+}*/
+
+#contacto main form button {
+    border-radius: 60px;
+    padding: 10px 60px;
+    font-weight: 800;
+    border-style: none;
+    box-shadow: 2px 3px 10px rgb(0,0,0,0.3);
+    font-size: 14px;
+    background-color: white;
+    color: #370a6d;
+}
+
+#proyectos h1 {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#proyectos #proyectos-box p {
+    font-size: 12px;
+    padding: 5px 10px 20px 16px;
+}
+
+#proyectos h2 {
+    font-weight: bold;
+    font-size: 15.22px;
+}
+
+#proyectos main #proyectos-box h2 {
+    color: white;
+    margin-left: 16px;
+    padding: 20px 0;
+}
+
+#proyectos main .col-sm-4 {
+    border-style: solid;
+    border-radius: 15px;
+    border: none;
+    border-color: rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgb(0,0,0,0.2);
+}
+
+#proyectos main .btn-proyecto {
+    background-color: #e20000;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
+
+#proyectos main .btn-codfuente {
+    color: red;
+}
+
+#proyectos img {
+    width: 100%;
+    height: 16vh;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgb(0,0,0,0.2);
+}
+
+#proyectos .col-sm-4 {
+    max-width: 28%;
+}
+
+#proyectos main #proyectos-box .gradiente {
+    background: linear-gradient(to right, darkred, red);
+}
+
+#proyectos main #proyectos-box .txt {
+    height: 115px;
+}
+
+#proyectos #proyectos-box a {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#proyectos p {
+    font-size: 15px;
+}
+
+#sobre-mi #ico-chicos i {
+    font-size: 40px;
+    color: #e20000
+}
+
+#sobre-mi #ico-chicos #btn-CV {
+    background-color: #e20000;
+    color: white;
+    border-radius: 60px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 60px;
+    padding: 9px 20px;
+    position: relative;
+    bottom: 9px;
+}
+
+#sobre-mi #emoji {
+    border-radius: 100%;
+    width: 400px;
+}
+
+#sobre-mi #fila1 div {
+    margin: 1rem;
+    border-radius: 15px;
+}
