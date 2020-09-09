@@ -65,7 +65,7 @@ nav ul {
 }
 
 h1 {
-    color: #E20000;
+    color: #e20000;
     font-size: 35px;
     font-weight: bold;
 }
@@ -83,12 +83,12 @@ footer {
     color: white;
 }
 
-#proyectos footer {
-    color: red;
+#proyectos footer, #sobre-mi footer {
+    color: #e20000;
 }
 
-#proyectos footer a {
-    color: red;
+#proyectos footer a, #sobre-mi footer a {
+    color: #e20000;
 }
 
 footer .subrayar{
@@ -297,11 +297,11 @@ footer .col-6 .mt-3 .text-right {
     background: linear-gradient(to right, darkred, red);
 }
 
-#sobre-mi #div-gris-1, #sobre-mi #div-gris-2 {
+#sobre-mi #div-gris-1, #sobre-mi #estudios, #sobre-mi footer {
     background-color: #ededed;
 }
 
-#sobre-mi #idiomas i, #sobre-mi #hobbies i{
+#sobre-mi #idiomas i, #sobre-mi #hobbies i {
     color: white;
     font-size: 64px;
     background-color: #370a6d;
@@ -323,13 +323,78 @@ footer .col-6 .mt-3 .text-right {
     border-radius: 20px;
 }
 
-#sobre-mi #text-exp-lab {
+#sobre-mi #text-exp-lab, #sobre-mi #text-estudios {
     color: #370a6d;
     font-size: 25px;
     font-weight: bold;
 }
 
-#sobre-mi #exp-lab i {
+#sobre-mi #text-estudios {
+    color: #e20000;
+}
+
+#sobre-mi #exp-lab i, #sobre-mi #estudios i {
     color: #370a6d;
     font-size: 60px ;
+}
+
+#sobre-mi #estudios i {
+    color: #e20000;
+}
+
+#sobre-mi #exp-lab h3, #sobre-mi #estudios h3 {
+    font-size: 17px;
+    font-weight: bold;
+    color: grey;
+}
+
+#sobre-mi #exp-lab h4, #sobre-mi #estudios h4 {
+    font-size: 15px;
+    font-weight: bold;
+    color: #370a6d;
+}
+
+#sobre-mi #estudios h4 {
+    color: #e20000;
+}
+
+#sobre-mi #exp-lab h5, #sobre-mi #estudios h5 {
+    font-size: 12px;
+    font-weight: 300;
+    color: grey;
+}
+
+#sobre-mi #exp-lab li, #sobre-mi #estudios li {
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+}
+
+#sobre-mi #exp-lab .btn a, #sobre-mi #estudios .btn a {
+    color: white;
+    background-color: #370a6d;
+    padding: 9px 22px;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+#sobre-mi #estudios .btn a {
+    background-color: #e20000;
+}
+
+#sobre-mi #exp-lab p, #sobre-mi #estudios p {
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: black;
+    padding: 30px 18px;
+    border-radius: 42px;
+    width: min-content;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+#sobre-mi #exp-lab .exp-lab, #sobre-mi #estudios .exp-lab {
+    border-radius: 20px;
 }
