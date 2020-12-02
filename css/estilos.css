@@ -10,6 +10,18 @@ header a {
     font-size: 14px;
 }
 
+header button {
+    background-color: #e20000 !important;
+}
+
+header button i {
+    color: white;
+}
+
+header nav li a:hover {
+    color: #e20000;
+}
+
 nav ul {
     justify-content: space-between;
 }
@@ -21,12 +33,16 @@ nav ul {
     padding: 5px 20px;
 }
 
+#btn-CV:hover {
+    background-color: #370a6d;   
+}
+
 #inicio main, #contacto main {
     height: 77.9vh;
 }
 
 #proyectos main {
-    height: 82vh;
+    height: 77.9vh;
 } 
 
 #inicio main .container {
@@ -39,11 +55,107 @@ nav ul {
     font-weight: 300;
     color: white;
     border-style: solid;
-    border-radius: 20px;
+    border-radius: 30px;
     border-width: thin;
     width: max-content;
     display: inline;
-    padding: 6px 20px;
+    padding: 10px 20px;
+}
+
+/*#inicio main p span {
+    animation: stack 5s steps(54);
+}
+
+@keyframes stack {
+    from { width: 100% }
+    to { width:0 }
+}*/
+
+@media (max-width: 768px) {
+    #inicio main p {
+    font-size: 12px;
+    padding: 10px 11px;
+    }
+
+    footer div {
+        font-size: 9px !important;
+    }
+
+    #contacto main, #proyectos main {
+        height: auto !important;
+    }
+
+    #contacto main form button {
+        padding: 10px 30px !important;
+    }
+
+    footer #icono-whatsapp {
+        padding-bottom: 26px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    h1 {
+        font-size: 28px !important;
+    }
+
+    p {
+        font-size: 12px !important;
+    }
+
+    #contacto input, #contacto textarea {
+        font-size: 11px !important;
+    }
+
+    #proyectos img {
+        height: 23vh !important;
+    }
+
+    #sobre-mi #ico-chicos i {
+        font-size: 32px !important;
+    }
+
+    #sobre-mi #ico-chicos #btn-CV {
+        font-size: 11px !important;
+        padding: 8px 20px !important;
+    } 
+    
+    #sobre-mi h2 {
+        font-size: 20px !important;
+    }
+
+    #sobre-mi #div-rojo i {
+        font-size: 50px !important;
+        margin-bottom: 15px !important;
+        margin-top: 26px !important;
+    }
+
+    #sobre-mi #fila1 div, #sobre-mi #fila2 div, #sobre-mi #fila3 div {
+        height: 18vh !important;
+    } 
+    
+    #sobre-mi h3 {
+        font-size: 12px !important;
+    } 
+    
+    #sobre-mi #idiomas i, #sobre-mi #hobbies i {
+        font-size: 50px !important;
+        width: -webkit-fill-available !important;
+    }  
+    
+    #sobre-mi #exp-lab i, #sobre-mi #estudios i {
+        font-size: 50px !important;
+    }    
+
+    #sobre-mi #exp-lab p, #sobre-mi #estudios p {
+       padding: 23px 13px !important;
+    } 
+    
+    footer .linkedin {
+        font-size: 9px !important;
+        padding: 4.5px 5.2px !important;
+        bottom: 2.8px !important;
+    }    
 }
 
 #inicio main a {
@@ -62,6 +174,11 @@ nav ul {
     background-color: white;
     color: #370a6d;
     text-decoration: none;
+}
+
+#inicio #btn-trabajos:hover {
+    background-color: #370a6d;
+    color: white;
 }
 
 h1 {
@@ -103,6 +220,16 @@ footer .col-6 .mt-3 .text-right {
     background-color: red;
 }
 
+footer .linkedin {
+    font-size: 14px;
+    background-color: white;
+    color: red;
+    border-radius: 40px;
+    padding: 4.8px 5.5px;
+    position: relative;
+    bottom: 3.5px;
+}
+
 #icono-whatsapp {
     background-color: #370a6d;
     padding-bottom: 37px;
@@ -113,8 +240,28 @@ footer .col-6 .mt-3 .text-right {
     color: white;
 }
 
-#inicio {
-    background-image: url(../images/fondo-inicio.png);
+#icono-whatsapp:hover {
+    color: rgb(0, 255, 85);
+}    
+
+@media (orientation: portrait) {
+    #inicio {
+        background-image: url(../images/fondo-inicio-mobile.png);
+    }
+
+    #contacto {
+        background-image: url(../images/fondo-contacto-mobile.png);
+    }
+}
+
+@media (orientation: landscape) {
+    #inicio {
+        background-image: url(../images/fondo-inicio.png);
+    }
+
+    #contacto {
+        background-image: url(../images/fondo-contacto.png);
+    }
 }
 
 #contacto {
@@ -137,6 +284,7 @@ footer .col-6 .mt-3 .text-right {
 .nav-item .active {
     border: 1px solid red;
     border-radius: 20px;
+    width: max-content;
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
@@ -176,6 +324,11 @@ footer .col-6 .mt-3 .text-right {
     color: #370a6d;
 }
 
+#contacto main form button:hover {
+    background-color: #370a6d;
+    color: white;
+}
+
 #proyectos h1 {
     font-weight: bold;
     font-size: 35px;
@@ -197,7 +350,7 @@ footer .col-6 .mt-3 .text-right {
     padding: 20px 0;
 }
 
-#proyectos main .col-sm-4 {
+#proyectos .n-proyecto {
     border-style: solid;
     border-radius: 15px;
     border: none;
@@ -209,7 +362,6 @@ footer .col-6 .mt-3 .text-right {
     background-color: #e20000;
     color: white;
     border-radius: 20px;
-    padding: 10px 30px;
 }
 
 #proyectos main .btn-codfuente {
@@ -218,15 +370,11 @@ footer .col-6 .mt-3 .text-right {
 
 #proyectos img {
     width: 100%;
-    height: 16vh;
+    height: 17vh;
     border-style: solid;
     border-width: thin;
     border-color: rgba(0,0,0,0.1);
     box-shadow: 0 0 10px rgb(0,0,0,0.2);
-}
-
-#proyectos .col-sm-4 {
-    max-width: 28%;
 }
 
 #proyectos main #proyectos-box .gradiente {
@@ -238,12 +386,22 @@ footer .col-6 .mt-3 .text-right {
 }
 
 #proyectos #proyectos-box a {
-    font-size: 12px;
+    font-size: 10px;
     font-weight: bold;
+    padding: 10px 20px;
 }
 
 #proyectos p {
     font-size: 15px;
+}
+
+#proyectos #btn-ver-online {
+    padding: 10px 30px !important;
+}
+
+#proyectos footer .linkedin {
+    color: white;
+    background-color: #e20000;
 }
 
 #sobre-mi #ico-chicos i {
@@ -269,9 +427,8 @@ footer .col-6 .mt-3 .text-right {
 }
 
 #sobre-mi #fila1 div, #sobre-mi #fila2 div, #sobre-mi #fila3 div {
-    margin: 0.9rem 0.2rem 0rem 0.9rem;
+    height: 21vh;
     border-radius: 15px;
-    max-width: 13.86%;
 }
 
 #sobre-mi #fila1 i, #sobre-mi #fila2 i, #sobre-mi #fila3 i {
@@ -306,6 +463,7 @@ footer .col-6 .mt-3 .text-right {
     font-size: 64px;
     background-color: #370a6d;
     border-radius: 15px;
+    width: 160px;
 }
 
 #sobre-mi #div-gris-1 li {
@@ -318,8 +476,7 @@ footer .col-6 .mt-3 .text-right {
     font-weight: bold;
 }
 
-#sobre-mi #idiomas #div-1, #sobre-mi #idiomas #div-2 {
-    max-width: 44.8%;
+#sobre-mi #idiomas .idiomas, #sobre-mi #idiomas .hobbies {
     border-radius: 20px;
 }
 
@@ -379,8 +536,16 @@ footer .col-6 .mt-3 .text-right {
     font-weight: bold;
 }
 
+#sobre-mi #exp-lab .btn a:hover {
+    background-color: #e20000;
+}
+
 #sobre-mi #estudios .btn a {
     background-color: #e20000;
+}
+
+#sobre-mi #estudios .btn a:hover {
+    background-color: #370a6d;
 }
 
 #sobre-mi #exp-lab p, #sobre-mi #estudios p {
@@ -388,7 +553,7 @@ footer .col-6 .mt-3 .text-right {
     font-size: 17px;
     font-weight: bold;
     background-color: black;
-    padding: 30px 18px;
+    padding: 30px 16px;
     border-radius: 42px;
     width: min-content;
     margin-left: 20px;
@@ -397,4 +562,17 @@ footer .col-6 .mt-3 .text-right {
 
 #sobre-mi #exp-lab .exp-lab, #sobre-mi #estudios .exp-lab {
     border-radius: 20px;
+}
+
+#sobre-mi footer .linkedin {
+    background-color: #e20000;
+    color: #ededed;
+}
+
+#sobre-mi #ico-chicos i:hover {
+    color: #370a6d;
+}
+
+#sobre-mi #ico-chicos #btn-CV:hover {
+    background-color: #370a6d;
 }
