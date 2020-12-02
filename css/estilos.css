@@ -62,14 +62,9 @@ nav ul {
     padding: 10px 20px;
 }
 
-/*#inicio main p span {
-    animation: stack 5s steps(54);
+footer i{
+    font-size: 20px;
 }
-
-@keyframes stack {
-    from { width: 100% }
-    to { width:0 }
-}*/
 
 @media (max-width: 768px) {
     #inicio main p {
@@ -77,8 +72,12 @@ nav ul {
     padding: 10px 11px;
     }
 
-    footer div {
-        font-size: 9px !important;
+    footer div{
+        font-size: 12px !important;
+    }
+
+    footer div i{
+        font-size: 12px !important;
     }
 
     #contacto main, #proyectos main {
@@ -216,12 +215,15 @@ footer div {
     font-size: 12px;
 }
 
+footer div i{
+    font-size: 30px;
+}
+
 footer .col-6 .mt-3 .text-right {
     background-color: red;
 }
 
 footer .linkedin {
-    font-size: 14px;
     background-color: white;
     color: red;
     border-radius: 40px;
