@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inicio</title>
+    <?php $title = ucfirst($pg) ?>
+    <title><?php echo $title ?></title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -29,16 +30,16 @@
                     <div class="col-4 col-sm-6 px-2">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
-                                <a class="nav-link active" href="index.php">Home</a>
+                                <a class="nav-link <?php echo $pg == "inicio"? "active" : ""; ?>" href="index.php">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="sobre-mi.php">Sobre mi</a>
+                                <a class="nav-link <?php echo $pg == "sobre-mi"? "active" : ""; ?>" href="sobre-mi.php">Sobre mi</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="proyectos.php">Proyectos</a>
+                                <a class="nav-link <?php echo $pg == "proyectos"? "active" : ""; ?>" href="proyectos.php">Proyectos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="contacto.php">Contacto</a>
+                                <a class="nav-link <?php echo $pg == "contacto"? "active" : ""; ?>" href="contacto.php">Contacto</a>
                             </li>
                         </ul>
                     </div>
@@ -49,5 +50,3 @@
             </nav>
         </div>
     </header>
-
-            <?php /*echo $pg == "inicio"? "active" : ""; */?>

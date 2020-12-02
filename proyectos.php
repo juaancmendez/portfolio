@@ -29,7 +29,7 @@
                         </div>
                         <div class="txt">
                             <p>Alta, Baja, modificación de un registro de
-                                clientes empleando:. Realizado en HTML, CSS,
+                                clientes empleando: HTML, CSS,
                                 PHP, Bootstrap y Json.</p>
                         </div>
                         <div class="row pb-3">
