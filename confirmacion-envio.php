@@ -28,7 +28,33 @@
 <body id="contacto">
     <header>
         <div class="container">
-            <?php include_once("menu.php");?>
+            <nav class="navbar navbar-expand-md px-0">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+                    aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <div class="row collapse navbar-collapse mb-3 mt-3" id="navbarsExampleDefault">
+                    <div class="col-4 col-sm-6 px-2">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="sobre-mi.html">Sobre mi</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="proyectos.html">Proyectos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" href="contacto.html">Contacto</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="d-none d-sm-block col-sm-6 text-right">
+                        <a href="" id="btn-CV">DESCARGÁ MI CV <i class="fas fa-download"></i></a>
+                    </div>
+                </div>
+            </nav>
         </div>
     </header>
     <main>
@@ -40,7 +66,12 @@
             </div>
             <div class="row">
                 <div class="col-sm-5 col-12 mb-3">
-                    <p>te respondere a la brevedad.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ipsam neque harum laborum autem,
+                        saepe ipsa et illum consectetur iste unde repellendus quod porro adipisci quibusdam enim cumque
+                        delectus nulla!</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex, dolor ipsam odit tempore, facere
+                        repudiandae, voluptatem numquam fugit dolores provident dolorum eveniet amet nisi sunt hic
+                        possimus quae laborum rerum.</p>
                 </div>
                 <div class="col-sm-6 offset-sm-1 col-12">
                     <form action="" method="post" required>

@@ -240,10 +240,6 @@ footer .linkedin {
     color: white;
 }
 
-#icono-whatsapp:hover {
-    color: rgb(0, 255, 85);
-}    
-
 @media (orientation: portrait) {
     #inicio {
         background-image: url(../images/fondo-inicio-mobile.png);
@@ -262,6 +258,10 @@ footer .linkedin {
     #contacto {
         background-image: url(../images/fondo-contacto.png);
     }
+}
+
+#inicio {
+    
 }
 
 #contacto {
@@ -397,11 +397,6 @@ footer .linkedin {
 
 #proyectos #btn-ver-online {
     padding: 10px 30px !important;
-}
-
-#proyectos footer .linkedin {
-    color: white;
-    background-color: #e20000;
 }
 
 #sobre-mi #ico-chicos i {
