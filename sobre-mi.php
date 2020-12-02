@@ -68,14 +68,14 @@
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <i class="fas fa-question"></i>
+                            <img src="images/icono-jquery.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
                             <h3 class="pt-1">jQuery</h3>
                         </div>
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
                             <i class="fab fa-bootstrap"></i>
-                            <h3 class="pt-1">Boostrap</h3>
+                            <h3 class="pt-1">Bootstrap</h3>
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <i class="fas fa-question"></i>
+                            <img src="images/icono-mariadb1.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
                             <h3 class="pt-1">MariaDB</h3>
                         </div>
                     </div>
@@ -100,14 +100,14 @@
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <i class="fas fa-question"></i>
+                            <img src="images/icono-mysql1.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
                             <h3 class="pt-1">MySQL</h3>
                         </div>
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <i class="fas fa-question"></i>
-                            <h3 class="pt-1">Word</h3>
+                            <img src="images/icono-apache1.png" alt="" srcset="" class="img-fluid apache" style="width: 72px;">
+                            <h3 class="pt-1">Apache</h3>
                         </div>
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
@@ -126,13 +126,13 @@
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <i class="fas fa-question"></i>
+                            <img src="images/icono-sublime1.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
                             <h3 class="pt-1">Sublime Text</h3>
                         </div>
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <i class="fas fa-question"></i>
+                            <img src="images/icono-xampp.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
                             <h3 class="pt-1">XAMPP</h3>
                         </div>
                     </div>

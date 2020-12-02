@@ -77,7 +77,7 @@ footer i{
     }
 
     footer div i{
-        font-size: 12px !important;
+        font-size: 28px !important;
     }
 
     #contacto main, #proyectos main {
@@ -151,10 +151,17 @@ footer i{
     } 
     
     footer .linkedin {
-        font-size: 9px !important;
         padding: 4.5px 5.2px !important;
         bottom: 2.8px !important;
-    }    
+    }  
+    
+    #sobre-mi .apache{
+        width: 46px !important;
+    }
+
+    #sobre-mi #div-rojo img{
+        width: 92px !important;
+    }  
 }
 
 #inicio main a {
@@ -240,6 +247,10 @@ footer .linkedin {
     border-radius: 15px 15px 0px 0px;
     padding-top: 14px;
     color: white;
+}
+
+#icono-whatsapp:hover {
+    color: #08fa1c;
 }
 
 @media (orientation: portrait) {
@@ -572,4 +583,24 @@ footer .linkedin {
 
 #sobre-mi #ico-chicos #btn-CV:hover {
     background-color: #370a6d;
+}
+
+#proyectos footer i:hover {
+    color: #370a6d;
+}
+
+#inicio footer .iconos:hover {
+    color: #370a6d;
+}
+
+#sobre-mi footer .iconos:hover {
+    color: #370a6d;
+}
+
+#proyectos footer .iconos:hover {
+    color: #370a6d;
+}
+
+#contacto footer .iconos:hover {
+    color: #370a6d;
 }
