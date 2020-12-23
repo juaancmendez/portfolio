@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-12 mb-5">
                 <div>
-                    <p>Hola mi nombre es <a href="sobre-mi.html" target="_blank" rel="noopener noreferrer">Juan</a>,
+                    <p>Hola mi nombre es <a href="sobre-mi.php" target="_blank" rel="noopener noreferrer">Juan</a>,
                         soy
                         desarrollador full stack. | <i class="fas fa-search"></i></p>
                 </div>
@@ -15,7 +15,7 @@
         </div>
         <div class="row">
             <div class="col-12 mb-5">
-                <a id="btn-trabajos" href="proyectos.html" target="_blank" rel="noopener noreferrer">MIRÁ MI
+                <a id="btn-trabajos" href="proyectos.php" target="_blank" rel="noopener noreferrer">MIRÁ MI
                     TRABAJO</a>
             </div>
         </div>

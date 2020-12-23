@@ -18,9 +18,9 @@
                             architecto numquam quo dolorum!</p>
                     </div>
                     <div class="mt-4 mt-sm-5" id="ico-chicos">
-                        <a href="https://github.com" target="_blank" title="Github"><i
+                        <a href="https://github.com/juaancmendez" target="_blank" title="Github"><i
                                 class="fab fa-github fa-2x mr-1"></i></a>
-                        <a href="https://linkedin.com/in/nelson-daniel-tarche" target="_blank" title="Linkedin"><i
+                        <a href="https://www.linkedin.com/in/juan-coronel-m%C3%A9ndez-77a80518b/" target="_blank" title="Linkedin"><i
                                 class="fab fa-linkedin fa-2x"></i></a>
                         <a href="" id="btn-CV">DESCARGÁ MI CV</a>
                     </div>

@@ -250,7 +250,7 @@ footer .linkedin {
 }
 
 #icono-whatsapp:hover {
-    color: #08fa1c;
+    color: #08fa1c !important;
 }
 
 @media (orientation: portrait) {
@@ -585,9 +585,9 @@ footer .linkedin {
     background-color: #370a6d;
 }
 
-#proyectos footer i:hover {
+/*#proyectos footer:hover {
     color: #370a6d;
-}
+}*/
 
 #inicio footer .iconos:hover {
     color: #370a6d;
