@@ -23,8 +23,8 @@
                 </div>
                 <div class="col-12 col-sm-6 offset-sm-1">
                     <div>
-                        <img src="../portfolio/images/sobre-mi-emoji.png" class="shadow d-none d-sm-block" alt=""
-                            id="emoji">
+                        <img src="../portfolio/images/me.jpg" class="shadow d-none d-sm-block" alt=""
+                            id="me">
                     </div>
                 </div>
             </div>
@@ -159,9 +159,8 @@
                                 <div class="col-6 col-sm-4">
                                     <h3 class="mb-3 pb-0 mt-3 pt-4">IDIOMAS</h3>
                                     <ul class="pl-0">
-                                        <li>INGLES - Intermediate B2</li>
+                                        <li>INGLES - Basico</li>
                                         <li>ESPAÑOL - Nativo</li>
-                                        <li>FRANCÉS - Avanzado</li>
                                     </ul>
                                 </div>
                                 <div class="offset-2 offset-sm-4"></div>
@@ -177,8 +176,8 @@
                                 <div class="col-6 col-sm-4">
                                     <h3 class="mb-3 pb-0 mt-3 pt-4">HOBBIES</h3>
                                     <ul class="pl-0">
-                                        <li>CROSSFIT</li>
-                                        <li>Libros de ciencia ficción</li>
+                                        <li>Fotografia</li>
+                                        <li>Paddle</li>
                                     </ul>
                                 </div>
                                 <div class="offset-2 offset-sm-4"></div>
@@ -207,22 +206,21 @@
                         <div class="exp-lab shadow">
                             <div class="row">
                                 <div class="col-3">
-                                    <p>LOGO</p>
+                                    <p class="legacy">LEGACY</p>
                                 </div>
                                 <div class="col-9 mt-4">
-                                    <h3 class="pb-0">Nombre del cargo</h3>
-                                    <h4>Nombre de la empresa</h4>
-                                    <h5>FEB 2016 - PRESENTE</h5>
+                                    <h3 class="pb-0">Cajero y atencion al cliente</h3>
+                                    <h4>Legacy</h4>
+                                    <h5>DIC 2012 - FEBRERO 2014</h5>
                                     <ul class="pl-3">
-                                        <li>Lorem ipsum dolor sit amet, consectetuer elit.</li>
-                                        <li>Sed diam nonummy nibh euismod ut laoreet.</li>
-                                        <li>Dolore magna aliquam erat volutpat</li>
+                                        <li>Control de stock.</li>
+                                        <li>Carga de datos en sistema.</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-11 text-right btn pb-4">
-                                    <a href="http://" target="_blank" rel="noopener noreferrer">VER EMPRESA</a>
+                                    <a href="https://www.legacy.com.ar/" target="_blank" rel="noopener noreferrer">VER EMPRESA</a>
                                 </div>
                             </div>
                         </div>
@@ -231,22 +229,21 @@
                         <div class="exp-lab shadow">
                             <div class="row">
                                 <div class="col-3">
-                                    <p>LOGO</p>
+                                    <p class="sumun">SUMUN</p>
                                 </div>
                                 <div class="col-9 mt-4">
-                                    <h3 class="pb-0">Nombre del cargo</h3>
-                                    <h4>Nombre de la empresa</h4>
-                                    <h5>FEB 2016 - PRESENTE</h5>
+                                    <h3 class="pb-0">Cajero y atencion al cliente</h3>
+                                    <h4>Sumun</h4>
+                                    <h5>FEB 2014 - PRESENTE</h5>
                                     <ul class="pl-3">
-                                        <li>Lorem ipsum dolor sit amet, consectetuer elit.</li>
-                                        <li>Sed diam nonummy nibh euismod ut laoreet.</li>
-                                        <li>Dolore magna aliquam erat volutpat</li>
+                                        <li>Control de stock.</li>
+                                        <li>Administrador del sistema.</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-11 text-right btn pb-4">
-                                    <a href="http://" target="_blank" rel="noopener noreferrer">VER EMPRESA</a>
+                                    <a href="https://www.google.com/maps/place/Marroquineria+Sumun/@-34.6514693,-58.7916666,15z/data=!4m5!3m4!1s0x0:0x387cf0bab4cf37c8!8m2!3d-34.6514693!4d-58.7916666" target="_blank" rel="noopener noreferrer">VER EMPRESA</a>
                                 </div>
                             </div>
                         </div>
@@ -273,22 +270,20 @@
                         <div class="exp-lab shadow bg-white">
                             <div class="row">
                                 <div class="col-3">
-                                    <p>LOGO</p>
+                                    <p class="unlu">UNLu</p>
                                 </div>
                                 <div class="col-9 mt-4">
-                                    <h3 class="pb-0">Nombre del curso</h3>
-                                    <h4>DePC</h4>
-                                    <h5>FEB 2016 - PRESENTE</h5>
+                                    <h3 class="pb-0">Licenciatura en Sistemas de Informacion</h3>
+                                    <h4>Universidad Nacional de Lujan</h4>
+                                    <h5>MAR 2015 - PRESENTE</h5>
                                     <ul class="pl-3">
-                                        <li>Lorem ipsum dolor sit amet, consectetuer elit.</li>
-                                        <li>Sed diam nonummy nibh euismod ut laoreet.</li>
-                                        <li>Dolore magna aliquam erat volutpat</li>
+                                        <li>Porcentaje de materias aprobadas: 52%.</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-11 text-right btn pb-4">
-                                    <a href="http://" target="_blank" rel="noopener noreferrer">VER EMPRESA</a>
+                                    <a href="http://www.unlu.edu.ar/" target="_blank" rel="noopener noreferrer">VER EMPRESA</a>
                                 </div>
                             </div>
                         </div>
@@ -297,22 +292,22 @@
                         <div class="exp-lab shadow bg-white">
                             <div class="row">
                                 <div class="col-3">
-                                    <p>LOGO</p>
+                                    <p class="depc">DePC Suite</p>
                                 </div>
                                 <div class="col-9 mt-4">
-                                    <h3 class="pb-0">Nombre del curso</h3>
-                                    <h4>DePC</h4>
-                                    <h5>FEB 2016 - PRESENTE</h5>
+                                    <h3 class="pb-0">Programacion Web Full Stack</h3>
+                                    <h4>DePC Suite</h4>
+                                    <h5>2020</h5>
                                     <ul class="pl-3">
-                                        <li>Lorem ipsum dolor sit amet, consectetuer elit.</li>
-                                        <li>Sed diam nonummy nibh euismod ut laoreet.</li>
-                                        <li>Dolore magna aliquam erat volutpat</li>
+                                        <li>Creacion de portfolio. ABM clientes. Sesiones de usuarios. Proyecto e-commerce.</li>
+                                        <li>HTML, CSS, Bootstrap, Json, PHP, MariaDB, AJAX, Javascript, POO.</li>
+                                        <li>XAMPP, Laravel, React.</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-11 text-right btn pb-4">
-                                    <a href="http://" target="_blank" rel="noopener noreferrer">VER EMPRESA</a>
+                                    <a href="https://www.depcsuite.com" target="_blank" rel="noopener noreferrer">VER EMPRESA</a>
                                 </div>
                             </div>
                         </div>
