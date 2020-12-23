@@ -97,7 +97,7 @@
                         </div>
                         <div class="mb-3">
                             <textarea name="txtMensaje" id="txtMensaje" class="form-control"
-                                placeholder="Comentarios..."></textarea>
+                                placeholder="Comentarios..." required></textarea>
                         </div>
                         <div class="row">
                             <div id="recaptcha" class="col-6 g-recaptcha"

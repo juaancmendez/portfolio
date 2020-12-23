@@ -10,12 +10,8 @@
                         <h1>Sobre mi</h1>
                     </div>
                     <div>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis error explicabo quas odit,
-                            voluptas iusto sunt, temporibus aperiam quia delectus odio sed, pariatur distinctio ab esse
-                            dicta doloribus quis veritatis!</p>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, incidunt facere consectetur
-                            optio ea dolorum at porro dignissimos repellat dolores officiis rem! Laboriosam earum ut eos
-                            architecto numquam quo dolorum!</p>
+                        <p>Soy un joven estudiante de sistemas con ganas de incorporarme al ambiente laboral y poder aportar mis conocimientos, ademas de sumar experiencia. </p>
+                        <p>Me gusta todo lo relacionado a la tecnologia, el trabajo en equipo y ser autodidacta.</p>
                     </div>
                     <div class="mt-4 mt-sm-5" id="ico-chicos">
                         <a href="https://github.com/juaancmendez" target="_blank" title="Github"><i
@@ -126,8 +122,8 @@
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <img src="images/icono-sublime1.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
-                            <h3 class="pt-1">Sublime Text</h3>
+                            <img src="images/icono-visualcode.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
+                            <h3 class="pt-1">Visual Studio Code</h3>
                         </div>
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">

@@ -377,8 +377,12 @@ footer .linkedin {
     border-radius: 20px;
 }
 
-#proyectos main .btn-codfuente {
-    color: red;
+#proyectos main .btn-proyecto:hover {
+    background-color:#370a6d;
+}
+
+#proyectos main .btn-codfuente{
+    color:#e20000;
 }
 
 #proyectos img {
