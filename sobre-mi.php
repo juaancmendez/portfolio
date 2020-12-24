@@ -206,7 +206,7 @@
                         <div class="exp-lab shadow">
                             <div class="row">
                                 <div class="col-3">
-                                    <p class="legacy">LEGACY</p>
+                                    <img src="images/legacy.jpg" alt="" srcset="" class="img-fluid legacy">
                                 </div>
                                 <div class="col-9 mt-4">
                                     <h3 class="pb-0">Cajero y atencion al cliente</h3>
@@ -267,10 +267,10 @@
                 </div>
                 <div class="row pb-5">
                     <div class="col-12 col-sm-6 mb-3">
-                        <div class="exp-lab shadow bg-white">
+                        <div class="exp-lab shadow bg-white" id="exp-lab-1">
                             <div class="row">
                                 <div class="col-3">
-                                    <p class="unlu">UNLu</p>
+                                    <img src="images/unlu.png" alt="" srcset="" class="img-fluid unlu">
                                 </div>
                                 <div class="col-9 mt-4">
                                     <h3 class="pb-0">Licenciatura en Sistemas de Informacion</h3>
@@ -282,7 +282,7 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-11 text-right btn pb-4">
+                                <div class="col-11 text-right btn pb-4 unlu-empresa">
                                     <a href="http://www.unlu.edu.ar/" target="_blank" rel="noopener noreferrer">VER EMPRESA</a>
                                 </div>
                             </div>
@@ -292,7 +292,7 @@
                         <div class="exp-lab shadow bg-white">
                             <div class="row">
                                 <div class="col-3">
-                                    <p class="depc">DePC Suite</p>
+                                    <img src="images/depc.png" alt="" srcset="" class="img-fluid depc">
                                 </div>
                                 <div class="col-9 mt-4">
                                     <h3 class="pb-0">Programacion Web Full Stack</h3>

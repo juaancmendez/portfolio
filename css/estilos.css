@@ -146,8 +146,8 @@ footer i{
         font-size: 50px !important;
     }    
 
-    #sobre-mi #exp-lab p, #sobre-mi #estudios p {
-       padding: 23px 13px !important;
+    #sobre-mi #exp-lab p{
+       padding: 23px 9px !important;
     } 
     
     footer .linkedin {
@@ -511,6 +511,17 @@ footer .linkedin {
     color: #e20000;
 }
 
+#sobre-mi .legacy, #sobre-mi .unlu, #sobre-mi .depc{
+    margin-top: 25px;
+    margin-left: 20px;
+    border-radius: 70px;
+    max-width: 89%;
+}
+
+#sobre-mi .unlu-empresa{
+    margin-top: 72px;
+}
+
 #sobre-mi #exp-lab h3, #sobre-mi #estudios h3 {
     font-size: 17px;
     font-weight: bold;
@@ -560,13 +571,13 @@ footer .linkedin {
     background-color: #370a6d;
 }
 
-#sobre-mi #exp-lab p, #sobre-mi #estudios p {
+#sobre-mi #exp-lab .sumun{
     color: white;
     font-size: 17px;
     font-weight: bold;
     background-color: black;
-    padding: 30px 16px;
-    border-radius: 42px;
+    padding: 36px 15px;
+    border-radius: 50px;
     width: min-content;
     margin-left: 20px;
     margin-top: 25px;
