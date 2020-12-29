@@ -59,7 +59,7 @@
                         </div>
                         <div class="row pb-3">
                             <div class="col-6 text-center">
-                                <a href="http://localhost/php/abm-ventas/index.php" target="_blank" class="btn-proyecto">VER PROYECTO</a>
+                                <a href="http://localhost/php/abm-ventas/login.php" target="_blank" class="btn-proyecto">VER PROYECTO</a>
                             </div>
                             <div class="col-6 text-center">
                                 <a href="" target="_self" class="btn-codfuente">CÓDIGO FUENTE</a>

@@ -78,12 +78,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-5 col-12 mb-3">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ipsam neque harum laborum autem,
-                        saepe ipsa et illum consectetur iste unde repellendus quod porro adipisci quibusdam enim cumque
-                        delectus nulla!</p>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex, dolor ipsam odit tempore, facere
-                        repudiandae, voluptatem numquam fugit dolores provident dolorum eveniet amet nisi sunt hic
-                        possimus quae laborum rerum.</p>
+                    <p>Ante cualquier duda, consulta, etc., contactame!</p>
                 </div>
                 <div class="col-sm-6 offset-sm-1 col-12">
                     <form action="" method="post" required>
