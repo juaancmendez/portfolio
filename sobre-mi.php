@@ -18,7 +18,7 @@
                                 class="fab fa-github fa-2x mr-1"></i></a>
                         <a href="https://www.linkedin.com/in/juan-coronel-m%C3%A9ndez-77a80518b/" target="_blank" title="Linkedin"><i
                                 class="fab fa-linkedin fa-2x"></i></a>
-                        <a href="" id="btn-CV">DESCARGÁ MI CV</a>
+                        <a href="files/cv.pdf" target="_blank" id="btn-CV">DESCARGÁ MI CV</a>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 offset-sm-1">

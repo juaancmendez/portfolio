@@ -41,7 +41,7 @@
                         </ul>
                     </div>
                     <div class="d-none d-sm-block col-sm-6 text-right">
-                        <a href="" id="btn-CV">DESCARGÁ MI CV <i class="fas fa-download"></i></a>
+                        <a href="files/cv.pdf" target="_blank" id="btn-CV">DESCARGÁ MI CV <i class="fas fa-download"></i></a>
                     </div>
                 </div>
             </nav>

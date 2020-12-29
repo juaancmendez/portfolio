@@ -86,7 +86,7 @@
                         </div>
                         <div class="row pb-3">
                             <div class="col-6 text-center">
-                                <a href="" target="_self" class="btn-proyecto">VER PROYECTO</a>
+                                <a href="http://127.0.0.1:8000/" target="_blank" class="btn-proyecto">VER PROYECTO</a>
                             </div>
                             <div class="col-6 text-center">
                                 <a href="" target="_self" class="btn-codfuente">CÓDIGO FUENTE</a>
