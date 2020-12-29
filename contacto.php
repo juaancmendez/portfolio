@@ -78,7 +78,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-5 col-12 mb-3">
-                    <p>Ante cualquier duda, consulta, etc., contactame!</p>
+                    <p>Ante cualquier duda, consulta, o lo que sea, contactame!</p>
                 </div>
                 <div class="col-sm-6 offset-sm-1 col-12">
                     <form action="" method="post" required>
