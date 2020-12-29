@@ -11,9 +11,7 @@
             </div>
             <div class="row">
                 <div class="col-12 col-sm-7 mb-4">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A ratione asperiores cumque, fuga
-                        officia molestias alias, quod dolorum architecto nihil placeat laborum quia, odio obcaecati
-                        dignissimos optio? Optio, facere accusantium?</p>
+                    <p>En esta seccion podran ver todos mis proyectos hasta la fecha. Entre ellos estan: ABM Clientes, ABM Ventas y un Proyecto Integrador.</p>
                 </div>
             </div>
             <div class="row m-0" id="proyectos-box">
@@ -34,7 +32,7 @@
                         </div>
                         <div class="row pb-3">
                             <div class="col-6 text-center">
-                                <a href="" target="_self" class="btn-proyecto" id="btn-ver-online">VER ONLINE</a>
+                                <a href="http://localhost/php/abm-clientes/abm-clientes.php" target="_blank" class="btn-proyecto" id="btn-ver-online">VER ONLINE</a>
                             </div>
                             <div class="col-6 text-center">
                                 <a href="" target="_self" class="btn-codfuente">CÓDIGO FUENTE</a>
@@ -61,7 +59,7 @@
                         </div>
                         <div class="row pb-3">
                             <div class="col-6 text-center">
-                                <a href="" target="_self" class="btn-proyecto">VER PROYECTO</a>
+                                <a href="http://localhost/php/abm-ventas/index.php" target="_blank" class="btn-proyecto">VER PROYECTO</a>
                             </div>
                             <div class="col-6 text-center">
                                 <a href="" target="_self" class="btn-codfuente">CÓDIGO FUENTE</a>

@@ -64,7 +64,7 @@
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <img src="images/icono-jquery.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
+                            <img src="images/icono-jquery.png" alt="" srcset="" class="img-fluid">
                             <h3 class="pt-1">jQuery</h3>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <img src="images/icono-mariadb1.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
+                            <img src="images/icono-mariadb1.png" alt="" srcset="" class="img-fluid"">
                             <h3 class="pt-1">MariaDB</h3>
                         </div>
                     </div>
@@ -96,13 +96,13 @@
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <img src="images/icono-mysql1.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
+                            <img src="images/icono-mysql1.png" alt="" srcset="" class="img-fluid">
                             <h3 class="pt-1">MySQL</h3>
                         </div>
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <img src="images/icono-apache1.png" alt="" srcset="" class="img-fluid apache" style="width: 72px;">
+                            <img src="images/icono-apache1.png" alt="" srcset="" class="img-fluid apache">
                             <h3 class="pt-1">Apache</h3>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                 <div class="row my-sm-3 pb-sm-5" id="fila3">
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <i class="fas fa-question"></i>
+                            <img src="images/icono-heidi.png" alt="" srcset="">
                             <h3 class="pt-1">Heidi SQL</h3>
                         </div>
                     </div>
@@ -128,7 +128,7 @@
                     </div>
                     <div class="col-4 col-sm-2 mb-3 mb-sm-0">
                         <div class="bg-white text-center shadow">
-                            <img src="images/icono-xampp.png" alt="" srcset="" class="img-fluid" style="width: 144px;">
+                            <img src="images/icono-xampp.png" alt="" srcset="" class="img-fluid">
                             <h3 class="pt-1">XAMPP</h3>
                         </div>
                     </div>
